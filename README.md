@@ -1,8 +1,10 @@
-loret0g/bibliotecaSQL# Biblioteca - Gestión de Usuarios, Libros y Préstamos
+# Biblioteca - Gestión de Usuarios, Libros y Préstamos
 
 ## Descripción
 
 Este proyecto contiene los scripts SQL necesarios para crear y gestionar una base de datos de una biblioteca. La base de datos incluye tablas para usuarios, libros y préstamos, y contiene procedimientos almacenados, funciones y triggers para manejar la lógica del negocio.
+
+![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) 
 
 ## Estructura del Proyecto
 
